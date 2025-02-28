@@ -1,6 +1,6 @@
 # SQL Challenge - Employee Database
 ##  Submitted by: Anqa Javed  
-### 🔗 GitHub Repository: [sql-challenge](https://github.com/anqajaved/sql-challenge)
+## 🔗 GitHub Repository: [sql-challenge](https://github.com/anqajaved/sql-challenge)
 
 
 ##  Project Overview
@@ -27,7 +27,7 @@ The database consists of six tables:
 - Tables were created in **PostgreSQL** with appropriate **data types**, **Primary Keys**, and **Foreign Keys**.
 - Data was imported from CSV files into the respective tables.
 - Queries were run to validate data integrity.
-- 
+  
 ## Data Analysis Queries
 The following queries were executed to analyze employee data:
  List employees with their salaries.  
