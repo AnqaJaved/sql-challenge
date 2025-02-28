@@ -1,4 +1,7 @@
 # SQL Challenge - Employee Database
+##  Submitted by: Anqa Javed  
+### 🔗 GitHub Repository: [sql-challenge](https://github.com/anqajaved/sql-challenge)
+
 
 ##  Project Overview
 This project is part of the **SQL Challenge** assignment, where we built a **relational database** to manage employee records. It includes **Data Modeling, Data Engineering, and Data Analysis** using PostgreSQL.
@@ -37,7 +40,6 @@ The following queries were executed to analyze employee data:
 ✔ Display employees in the Sales and Development departments.  
 ✔ Count how many employees share the same last name.  
 
-##  How to Run the Project
-1️⃣ **Clone the repository**:
-   ```sh
-   git clone https://github.com/anqajaved/sql-challenge.git
+
+1️ **Access the repository:**  
+🔗 [sql-challenge on GitHub](https://github.com/anqajaved/sql-challenge)
