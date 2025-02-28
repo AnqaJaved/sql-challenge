@@ -14,7 +14,7 @@ This repository (`sql-challenge`) contains the following files:
 3️⃣ **`EmployeeSQL/ERD_image.png`** → Entity Relationship Diagram (ERD) showing the database structure.  
 4️⃣ **`EmployeeSQL/Data-modeling.pdf`** → Documentation of the table structures and relationships.
 
-## 📊 Data Modeling
+##  Data Modeling
 The database consists of six tables:
 - `departments` → Stores department names.
 - `dept_emp` → Tracks which employees belong to which departments.
