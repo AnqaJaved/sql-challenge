@@ -16,12 +16,12 @@ This repository (`sql-challenge`) contains the following files:
 
 ##  Data Modeling
 The database consists of six tables:
-- `departments` → Stores department names.
-- `dept_emp` → Tracks which employees belong to which departments.
-- `dept_manager` → Tracks department managers.
-- `employees` → Stores employee details.
-- `salaries` → Stores salary information.
-- `titles` → Stores job titles.
+- `departments`  Stores department names.
+- `dept_emp`  Tracks which employees belong to which departments.
+- `dept_manager`  Tracks department managers.
+- `employees`  Stores employee details.
+- `salaries`  Stores salary information.
+- `titles`  Stores job titles.
 
 ##  Data Engineering
 - Tables were created in **PostgreSQL** with appropriate **data types**, **Primary Keys**, and **Foreign Keys**.
