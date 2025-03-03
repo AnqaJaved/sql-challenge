@@ -30,13 +30,13 @@ The database consists of six tables:
 
 ##  Data Analysis Queries
 The following queries were executed to analyze employee data:
-✔ List employees with their salaries.  
-✔ Find employees hired in 1986.  
-✔ Show department managers and their departments.  
-✔ List employees by department.  
-✔ Find employees named "Hercules" with last names starting with "B".  
-✔ Display employees in the Sales and Development departments.  
-✔ Count how many employees share the same last name.  
+1 List employees with their salaries.  
+2 Find employees hired in 1986.  
+3 Show department managers and their departments.  
+4 List employees by department.  
+5 Find employees named "Hercules" with last names starting with "B".  
+6 Display employees in the Sales and Development departments.  
+7 Count how many employees share the same last name.  
 
 ##  How to Run the Project
 1️ **Access the repository:**  
