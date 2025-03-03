@@ -4,17 +4,17 @@
 # SQL Challenge - Employee Database
 
 ## 📌 Project Overview
-This project is part of the **SQL Challenge** assignment, where we built a **relational database** to manage employee records. It includes **Data Modeling, Data Engineering, and Data Analysis** using PostgreSQL.
+This project is part of the **SQL Challenge** assignment, where i built a **relational database** to manage employee records. It includes **Data Modeling, Data Engineering, and Data Analysis** using PostgreSQL.
 
 ## 📂 Repository Contents
 This repository (`sql-challenge`) contains the following files:
 
-1️⃣ **`EmployeeSQL/table-schemata.sql`** → Contains all `CREATE TABLE` statements defining the database schema.  
-2️⃣ **`EmployeeSQL/analysis-queries.sql`** → Includes all SQL queries for data analysis.  
-3️⃣ **`EmployeeSQL/image.png`** → Entity Relationship Diagram (ERD) showing the database structure.  
-4️⃣ **`EmployeeSQL/Data-modeling.pdf`** → Documentation of the table structures and relationships.
+1️ **`EmployeeSQL/table-schemata.sql`** → Contains all `CREATE TABLE` statements defining the database schema.  
+2️ **`EmployeeSQL/analysis-queries.sql`** → Includes all SQL queries for data analysis.  
+3️ **`EmployeeSQL/image.png`** → Entity Relationship Diagram (ERD) showing the database structure.  
+4️ **`EmployeeSQL/Data-modeling.pdf`** → Documentation of the table structures and relationships.
 
-## 📊 Data Modeling
+##  Data Modeling
 The database consists of six tables:
 - `departments` → Stores department names.
 - `dept_emp` → Tracks which employees belong to which departments.
