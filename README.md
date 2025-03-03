@@ -38,8 +38,14 @@ The following queries were executed to analyze employee data:
 ✔ Display employees in the Sales and Development departments.  
 ✔ Count how many employees share the same last name.  
 
-1️ **Access the repository:**  
+## 🚀 How to Run the Project
+1️⃣ **Access the repository:**  
 🔗 [sql-challenge on GitHub](https://github.com/anqajaved/sql-challenge)  
+
+2️⃣ **Open pgAdmin** and create a new database: `employees_db`.  
+3️⃣ **Run the SQL script:** `table-schemata.sql` to create tables.  
+4️⃣ **Import the CSV files** into their respective tables.  
+5️⃣ **Run `analysis-queries.sql`** to execute the analysis.
 
 
 
