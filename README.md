@@ -47,9 +47,3 @@ The following queries were executed to analyze employee data:
 4️⃣ **Import the CSV files** into their respective tables.  
 5️⃣ **Run `analysis-queries.sql`** to execute the analysis.
 
-## ✅ Submission Checklist
-- [x] **ERD image uploaded** (`EmployeeSQL/image.png`)
-- [x] **Table schema script uploaded** (`EmployeeSQL/table-schemata.sql`)
-- [x] **SQL queries uploaded** (`EmployeeSQL/analysis-queries.sql`)
-- [x] **Regular commits to GitHub**
-- [x] **This `README.md` file added**
